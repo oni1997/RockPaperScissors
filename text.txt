@@ -1,0 +1,17 @@
+paper beats rock
+rock beats scissors
+scissors beats paper
+
+so code has to be like if userinput and computerinput are equal its a draw
+
+*rock beats scissors*
+if user is rock and computer is scissors user wins 
+if computer is rock and user is scissors computer wins
+
+*paper beats rock*
+if user is paper and computer is rock user wins 
+if computer is paper and user is rock computer wins
+
+*scissors beats paper*
+if user is scissors and computer is paper user wins 
+if computer is scissors and user is paper computer wins
